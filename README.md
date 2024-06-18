@@ -21,3 +21,9 @@ source venv/bin/activate
 sudo apt-get install python3-tk
 pip install yt_dlp
 ```
+
+- Para executar o código, o comando abaixo pode ser utilizado:
+
+```bash
+python youtube_downloader.py
+```
